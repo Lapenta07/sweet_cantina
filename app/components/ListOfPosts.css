@@ -1,0 +1,71 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    width: 65%;
+    justify-content: space-between;
+    margin: 2rem auto;
+}
+
+@media (width < 1100px){
+    .main{
+        margin-top: 9rem;
+    }
+}
+
+.entrada{
+    display: grid;
+    grid-template-columns: 1fr; 
+    grid-template-rows: 400px 60px 150px 60px; 
+    gap: 16px; 
+    width: 18rem;
+    border: 2px solid white;
+    border-radius: 15px 15px 0px 0px;
+    margin: 1rem auto;
+}
+
+.entrada h3{
+    font-size: 1.2rem;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin: 32px 16px;
+}
+
+.entrada p{
+    font-size: 0.95rem;
+    letter-spacing: normal;
+    margin: 24px 16px;
+}
+
+
+
+.foto img{
+    border-radius: 15px 15px 0px 0px;
+    width: 100%;
+}
+
+
+.entrada .boton button{
+width: 90%;
+display: flex;
+font-weight: 600;
+justify-content: center;
+align-items: center;
+margin: 0 auto;
+padding: 10px 18px;
+transition: 0.2s;
+border-radius: 10px;
+text-decoration: none;
+background: #ff5c5c;
+color: #f6f4ff;
+cursor: pointer;
+transition: 0.5s;
+border: none;
+}
+
+.entrada .boton a{
+    text-decoration: none;
+}
+
+

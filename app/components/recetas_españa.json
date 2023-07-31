@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "pais": "españa",
+        "imagen": "assets/recetas/españa/tortilla.jpg",
+        "nombre": "Tortilla",
+        "descripcion": "La tortilla española es un plato típico de la gastronomía española. Es una receta muy popular en toda España y se sirve tanto como plato principal como aperitivo o tapa. ¡Es una delicia!",
+        "stock": 10,
+        "valor": 3000
+    },
+    {
+        "id": 2,
+        "pais": "españa",
+        "imagen": "assets/recetas/españa/pulpo.jpg",
+        "nombre": "Pulpo a feira",
+        "descripcion": "Típico de la gastronomía de Galicia, norte de España. Conocido como polbo á feira en gallego. De preparación sencilla pero deliciosa que resalta la calidad y sabor del pulpo.",
+        "stock": 10,
+        "valor": 20000
+    },
+    {
+        "id": 3,
+        "pais": "españa",
+        "imagen": "assets/recetas/españa/Tripotxas.jpg",
+        "nombre": "Tripotxas",
+        "descripcion": "Típico de la gastronomía vasca, de la provincia de Vizcaya. Se trata de un guiso elaborado a base de callos de ternera, que son las partes del estómago del animal. ¡Es una delicia!",
+        "stock": 10,
+        "valor": 6500
+    },
+    {
+        "id": 4,
+        "pais": "españa",
+        "imagen": "assets/recetas/españa/cochinillo.jpg",
+        "nombre": "Cochinillo",
+        "descripcion": "Consiste en un lechón o cerdo joven que se asa al horno hasta que la piel quede crujiente y dorada, mientras que la carne se mantiene jugosa y tierna. ¡Es una delicia!",
+        "stock": 10,
+        "valor": 16000
+    },
+    {
+        "id": 5,
+        "pais": "españa",
+        "imagen": "assets/recetas/españa/croquetas.jpg",
+        "nombre": "Croquetas",
+        "descripcion": "Las croquetas españolas son una de las especialidades destacadas. Es una receta muy popular en toda España y se sirve tanto como plato principal como aperitivo o tapa. ¡Es una delicia!",
+        "stock": 10,
+        "valor": 700
+    },
+    {
+        "id": 6,
+        "pais": "españa",
+        "imagen": "assets/recetas/españa/chipirones.jpg",
+        "nombre": "Chipirones",
+        "descripcion": "Típico de la gastronomía asturiana, al norte de España. Se trata de una receta en la que los chipirones se cocinan en una salsa a base de tomate, vino blanco y otras especias",
+        "stock": 10,
+        "valor": 7000
+    },
+    {
+        "id": 7,
+        "pais": "españa",
+        "imagen": "assets/recetas/españa/Gazpacho.jpg",
+        "nombre": "Gazpacho",
+        "descripcion": "Variante muy conocida del tradicional. Es originario de la región de Andalucía. Los ingredientes son tomates maduros, pepinos, pimientos verdes, cebolla, etc.",
+        "stock": 10,
+        "valor": 2500
+    },
+    {
+        "id": 8,
+        "pais": "españa",
+        "imagen": "assets/recetas/españa/pimientos.jpg",
+        "nombre": "Pimientos",
+        "descripcion": "Variedad de pimientos pequeños originarios de la localidad de Padrón, en Galicia. Son conocidos por su sabor suave y ligeramente picante. Muy populares como tapa o entrante.",
+        "stock": 10,
+        "valor": 4000   
+    },
+    {
+        "id": 9,
+        "pais": "francia",
+        "imagen": "assets/recetas/francia/ratatouille.jpg",
+        "nombre": "Ratatouille",
+        "descripcion": "Tradicional de la región de Provenza. Se trata de un guiso de verduras que combina tomates, berenjenas, calabacines, pimientos, cebolla, ajo, hierbas provenzales y aceite de oliva.",
+        "stock": 10,
+        "valor": 7500   
+    },
+    {
+        "id": 10,
+        "pais": "francia",
+        "imagen": "assets/recetas/francia/Hachis-Parmentier.jpg",
+        "nombre": "Hachis Parmentier",
+        "descripcion": "Combina carne picada y puré de papas. Recibe su nombre en honor a Antoine-Auguste Parmentier, francés que promovió el consumo de papas en Francia en el siglo XVIII.",
+        "stock": 10,
+        "valor": 9000   
+    },
+    {
+        "id": 11,
+        "pais": "francia",
+        "imagen": "assets/recetas/francia/Macarons.jpg",
+        "nombre": "Macarons",
+        "descripcion": "Deliciosos dulces que se caracterizan por su textura crujiente por fuera y tierna por dentro. Son pequeñas galletas redondas y delicadas que se unen con un relleno cremoso.",
+        "stock": 10,
+        "valor": 900 
+    },
+    {
+        "id": 12,
+        "pais": "francia",
+        "imagen": "assets/recetas/francia/Magret_de_pato.jpeg",
+        "nombre": "Magret de pato",
+        "descripcion": "Consiste en el pecho de pato, de raza mulard, que se cocina a la parrilla o a la plancha. Es conocido por su carne jugosa y tierna, con una capa de grasa que le aporta sabor y textura.",
+        "stock": 10,
+        "valor": 12000   
+    },
+    {
+        "id": 13,
+        "pais": "francia",
+        "imagen": "assets/recetas/francia/Croque-monsieur.jpg",
+        "nombre": "Croque monsieur",
+        "descripcion": "Un almuerzo rápido o incluso como una cena ligera. Es un sándwich sabroso y reconfortante, con los sabores del jamón, el queso derretido y la mantequilla tostada.",
+        "stock": 10,
+        "valor": 3500   
+    },
+    {
+        "id": 14,
+        "pais": "francia",
+        "imagen": "assets/recetas/francia/Sopa-cebolla.jpg",
+        "nombre": "Sopa de cebolla",
+        "descripcion": "Se sirve caliente y se puede disfrutar como un primer plato o como plato principal. Con cebollas caramelizadas, caldo de carne o pollo, pan y queso gratinado. Una verdadera delicia!",
+        "stock": 10,
+        "valor": 4000   
+    },
+    {
+        "id": 15,
+        "pais": "francia",
+        "imagen": "assets/recetas/francia/Croissant.jpg",
+        "nombre": "Croissant",
+        "descripcion": "Bollo de origen francés, conocido por su forma de media luna y su textura hojaldrada y crujiente. Se ha convertido en un clásico de la pastelería y es apreciado en todo el mundo.",
+        "stock": 10,
+        "valor": 600   
+    },
+    {
+        "id": 16,
+        "pais": "francia",
+        "imagen": "assets/recetas/francia/Croquembouche.jpg",
+        "nombre": "Croquembouche",
+        "descripcion": "Impresionante postre francés que consiste en una torre de profiteroles rellenos de crema y unidos con caramelo.Auténtica obra de arte culinaria que se presenta en ocasiones especiales.",
+        "stock": 10,
+        "valor": 6000   
+    },
+    {
+        "id": 17,
+        "pais": "italia",
+        "imagen": "assets/recetas/italia/risotto.jpg",
+        "nombre": "Risotto",
+        "descripcion": "El risotto es un plato italiano de arroz cremoso y sabroso. Su origen es del norte de Italia, especialmente de la región de Lombardía y de la ciudad de Milán.",
+        "stock": 10,
+        "valor": 8500   
+    },
+    {
+        "id": 18,
+        "pais": "italia",
+        "imagen": "assets/recetas/italia/Pizza.jpg",
+        "nombre": "Pizza",
+        "descripcion": "Su versión más reconocible y conocida se desarrolló en la ciudad de Nápoles, Italia, en el siglo XVII. Originalmente, la pizza era un pan plano cubierto con ingredientes sencillos.",
+        "stock": 10,
+        "valor": 9000   
+    },
+    {
+        "id": 19,
+        "pais": "italia",
+        "imagen": "assets/recetas/italia/Spaghetti-Carbonara.jpg",
+        "nombre": "Spaghetti Carbonara",
+        "descripcion": "Originario de Lazio, relacionado con el término italiano `carbonaro`. Los ingredientes básicos son spaghetti, guanciale, yemas de huevo, queso Pecorino, sal y pimienta negra.",
+        "stock": 10,
+        "valor": 12000   
+    },
+    {
+        "id": 20,
+        "pais": "italia",
+        "imagen": "assets/recetas/italia/bruschetta.jpg",
+        "nombre": "Bruschetta",
+        "descripcion": "Antipasto tradicional de la región de Lacio. Era una forma tradicional de aprovechar el pan rancio, tostándolo y agregándole ingredientes para mejorar su sabor.",
+        "stock": 10,
+        "valor": 1000   
+    },
+    {
+        "id": 21,
+        "pais": "italia",
+        "imagen": "assets/recetas/italia/tiramisu.jpg",
+        "nombre": "Tiramisu",
+        "descripcion": "Conocido por su textura suave y cremosa, y su sabor a café y cacao. Es un postre muy popular y apreciado en todo el mundo. De la región de Véneto, en el noreste de Italia, en la década de 1960.",
+        "stock": 10,
+        "valor": 4000   
+    },
+    {
+        "id": 22,
+        "pais": "italia",
+        "imagen": "assets/recetas/italia/Cotoletta.jpg",
+        "nombre": "Cotoletta",
+        "descripcion": "De la región de Lombardía, sencillo y sabroso. Apreciado por su textura crujiente y su sabor jugoso. Es un clásico de la cocina italiana y se encuentra en muchos menús de restaurantes italianos.",
+        "stock": 10,
+        "valor": 12000   
+    },
+    {
+        "id": 23,
+        "pais": "italia",
+        "imagen": "assets/recetas/italia/Vittelo.jpg",
+        "nombre": "Vittelo Tonnato",
+        "descripcion": "Plato elegante y sabroso que combina la carne de ternera con la cremosidad y el sabor salado de la salsa tonnata. Es un plato popular en eventos especiales y celebraciones en Italia",
+        "stock": 10,
+        "valor": 10000   
+    },
+    {
+        "id": 24,
+        "pais": "italia",
+        "imagen": "assets/recetas/italia/Focaccia.jpg",
+        "nombre": "Focaccia",
+        "descripcion": "Plato tradicional que se ha adaptado a diferentes variantes y estilos según la región. Es perfecta para compartir y disfrutar en reuniones informales o como parte de una comida.",
+        "stock": 10,
+        "vrecio": 8000   
+    }
+]

@@ -1,0 +1,147 @@
+.main{
+    position: relative;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 4rem auto;
+    padding: 30px;
+}
+
+
+
+.main .card{
+    position: relative;
+    max-width: 300px;
+    height: 400px;
+    background: var(--azul);
+    margin: 60px 15px;
+    padding: 20px 15px;
+    flex-direction: column;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+    transition: 0.5s ease-in-out;
+    border-radius: 20px;
+}
+
+
+
+.main .card .titulo{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+}
+
+.main .card .titulo h3{
+    font-size: 1.8rem;
+}
+
+.main .card .imgBx{
+    position: relative;
+    overflow: hidden;
+    object-fit: fill;
+    width: 260px;
+    height: 140px;
+    top: -60px;
+    left: 20px;
+    z-index: 1;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+}
+
+.main .card .imgBx img{
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.main .card .contenido{
+    position: relative;
+    margin-top: 10px;
+    padding: 10px 15px;
+    text-align: left;
+    color:  white;
+    width: 90%;
+}
+
+.main .card .contenido .atributos{
+    display: flex;
+    justify-content: space-between;
+} 
+
+.main .card .contenido .atributos p{
+    text-transform: capitalize;
+}
+
+.main .card .contenido .precio{
+    margin: 1rem auto;
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.main .card .contenido .precio p{
+    margin: 0 auto;
+    font-size: 1.7rem;
+}
+
+.main .card .contenido .precio .form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main .card .contenido .precio .form .cantidad{
+    font-size: 1.3rem;
+    letter-spacing: 0.1rem;
+    font-weight: normal;
+}
+
+.main .card .contenido .precio .form .seleccion{
+    width: 3rem;
+    border-radius: 15px;
+    padding: 4px 4px;
+    border: none;
+    text-align: center;
+}
+
+
+.main .card .contenido .precio .form .boton{
+width: 3.5rem;
+display: flex;
+font-size: 2rem;
+border-radius: 10px;
+border: 0px;
+background: transparent;
+color: #ff5c5c;
+cursor: pointer;
+}
+
+.main .card .contenido .precio .form .boton button{
+    align-items: center;
+    font-size: x-large;
+}
+
+@media (width < 1200px){
+    .main{
+        margin-top: 9rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
