@@ -8,7 +8,7 @@
 
 .principal .agregados{
     display: grid;
-    gap: 4rem;
+    padding: 0rem 10rem;
 }
 
 @media (min-width:768px){
@@ -145,4 +145,30 @@ outline: 0;
 cursor: pointer;
 }
 
+@media (width < 1500px){
+    .principal .agregados .izquierda .prod1{
+        display: flex;
+        flex-wrap: wrap;
+        border: 1px solid white;
+        border-radius: 20px;
+        gap: 2rem;
+        margin: 2rem auto;
+        width: 85%;
+    }
 
+    .principal .derecha .resumen{
+        width: 90%;
+    }
+}
+
+@media (width < 1300px){
+    .principal .agregados{
+        display: block;
+        margin: 0 auto;
+        padding: 3rem;
+    }
+
+    .principal .derecha .resumen{
+        width: 60%;
+    }
+}
